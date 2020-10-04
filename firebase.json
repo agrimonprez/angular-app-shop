@@ -4,6 +4,7 @@
   },
   "hosting": [
     {
+      "target": "angular-appshop",
       "public": "dist",
       "ignore": [
         "firebase.json",

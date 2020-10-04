@@ -5,7 +5,7 @@
   "targets": {
     "angular-app-shop-5b30f": {
       "hosting": {
-        "angular.io-example": [
+        "angular-appshop": [
           "angular-app-shop-5b30f"
         ]
       }
