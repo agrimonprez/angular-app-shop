@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-app-shop-5b30f"
+  },
+  "targets": {
+    "angular-app-shop-5b30f": {
+      "hosting": {
+        "angular.io-example": [
+          "angular-app-shop-5b30f"
+        ]
+      }
+    }
+  }
+}
